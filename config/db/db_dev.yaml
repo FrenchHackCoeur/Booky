@@ -1,0 +1,3 @@
+echo: True
+db:
+  type: "sqlite"

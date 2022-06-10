@@ -1,0 +1,6 @@
+echo: False
+db:
+  type: "postgres"
+  host: "localhost"
+  port: 55000
+  database: "postgres"
